@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 04:59:54 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Thu Apr 27 10:43:31 2023
+# Process ID: 19087
+# Current directory: /home/kunal/HLS/adder_vitis_hls/solution1/impl/ip
+# Command line: vivado -notrace -mode batch -source run_ippack.tcl
+# Log file: /home/kunal/HLS/adder_vitis_hls/solution1/impl/ip/vivado.log
+# Journal file: /home/kunal/HLS/adder_vitis_hls/solution1/impl/ip/vivado.jou
+# Running On: kunal-Inspiron-3551, OS: Linux, CPU Frequency: 981.523 MHz, CPU Physical cores: 4, Host memory: 8213 MB
+#-----------------------------------------------------------
+source run_ippack.tcl -notrace
