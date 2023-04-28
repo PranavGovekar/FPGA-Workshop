@@ -62,13 +62,14 @@ int main() {
     XGpioPs_SetDirectionPin(&led, 7, 1);
 
     while(1) {
-    	print("Hello WOrld!")
-		XGpioPs_WritePin(&my_Gpio, 7, 1);
+    	print("Hello WOrld!");
+		XGpioPs_WritePin(&led, 7, 1);
 		sleep(1);
-		XGpioPs_WritePin(&my_Gpio, 7, 0);
+		XGpioPs_WritePin(&led, 7, 0);
 		sleep(1);
     }
 
     cleanup_platform();
     return 0;
 }
+
